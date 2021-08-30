@@ -2,10 +2,14 @@
   "name": "code83-web-storage",
   "version": "1.0.0",
   "main": "index.js",
+  "author": {
+    "name": "Rafael Japyassu"
+  },
   "license": "MIT",
   "scripts": {
     "start": "ts-node src/index.ts"
   },
+  "licenses": [{ "type": "ISC" }],
   "devDependencies": {
     "@types/js-cookie": "^2.2.7",
     "ts-node": "^10.2.1",
